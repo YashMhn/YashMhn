@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm YashMhn 👋
+
+Welcome to my GitHub profile!
+
+## 👨‍🎓 About Me
+- **Student** & aspiring developer
+- Known for being a logical thinker and problem solver
+- SIH (Smart India Hackathon) participator
+
+## 🛠️ Top Skills
+- **Python** (my primary language)
+
+## 🚀 Projects
+- Currently working on new projects—stay tuned!
+
+## 🌱 Learning & Growing
+I’m always looking to learn, collaborate, and build meaningful solutions. If you share similar interests or have opportunities for students, feel free to connect!
