@@ -19,10 +19,12 @@ Welcome to my GitHub profile!
 ## 👨‍🎓 About Me
 - **Student** & aspiring developer
 - Known for being a logical thinker and problem solver
-- SIH (Smart India Hackathon) participator
 
 ## 🛠️ Top Skills
-- **Python** (my primary language)
+- **Python** [My primary language]
+- **C** [Worked on some C projects]
+- **Web Development** [Made a static website prototype for Intenal Hackathon]
+- **Java** [Currently learning]
 
 ## 🚀 Projects
 - Currently working on new projects—stay tuned!
