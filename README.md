@@ -27,7 +27,7 @@ Welcome to my GitHub profile!
 - **Java** [Currently learning]
 
 ## 🚀 Projects
-- Currently working on new projects—stay tuned!
+- Currently working on new projects, stay tuned!
 
 ## 🌱 Learning & Growing
 I’m always looking to learn, collaborate, and build meaningful solutions. If you share similar interests or have opportunities for students, feel free to connect!
