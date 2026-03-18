@@ -6,7 +6,7 @@
 
 ## 👨‍🎓 About Me
 
-I'm a passionate student developer who loves breaking down complex problems and building meaningful solutions from scratch. I enjoy working across the stack — from low-level systems in C to web interfaces and beyond.
+I'm a passionate student developer who loves breaking down complex problems and building meaningful solutions from scratch. I enjoy working across the stack, from low-level systems in C to web interfaces and beyond.
 
 - 🎓 Currently a student, always a learner
 - 🧠 Logical thinker & problem solver at heart
@@ -27,7 +27,7 @@ I'm a passionate student developer who loves breaking down complex problems and 
 
 ## 🚀 Projects
 
-> More coming soon — currently building in public. Stay tuned!
+> More coming soon, currently building in public. Stay tuned!
 
 ---
 
