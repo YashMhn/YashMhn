@@ -40,9 +40,9 @@ I'm a passionate student developer who loves breaking down complex problems and 
     <th width="25%">🛠 Stack</th>
   </tr>
   <tr>
-    <td><b><a href="#">news-scraper</a></b></td>
-    <td>Scalable data engineering pipeline for automated news discovery.</td>
-    <td><code>Python</code> <code>SQLite</code></td>
+    <td align="center"><b><a href="#">news-scraper</a></b></td>
+    <td align="center">Scalable data engineering pipeline for automated news discovery.</td>
+    <td align="center"><code>Python</code> <code>SQLite</code></td>
   </tr>
 </table>
 
