@@ -32,6 +32,7 @@ I'm a passionate student developer who loves breaking down complex problems and 
 
 ---
 ## 🚀 Projects
+>📰 news-scraper -> A scalable Python data engineering pipeline that automatically discovers, extracts, and stores news articles. It features RSS and sitemap discovery, a robust three-layer extraction fallback chain (Trafilatura → Newspaper4k → Goose3), and concurrent scraping with SQLite URL deduplication. Designed to evolve seamlessly from a manual script to a fully orchestrated Apache Airflow DAG.
 > More coming soon, currently building in public. Stay tuned!
 ---
 ## 📊 GitHub Stats
