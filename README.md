@@ -1,33 +1,44 @@
-<!--
-**YashMhn/YashMhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm {} 👋
 
-Here are some ideas to get you started:
+> *"First, solve the problem. Then, write the code."*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm YashMhn 👋
-
-Welcome to my GitHub profile!
+---
 
 ## 👨‍🎓 About Me
-- **Student** & aspiring developer
-- Known for being a logical thinker and problem solver
 
-## 🛠️ Top Skills
-- **Python** [My primary language]
-- **C** [Worked on some C projects]
-- **Web Development** [Made a static website prototype for Intenal Hackathon]
-- **Java** [Currently learning]
+I'm a passionate student developer who loves breaking down complex problems and building meaningful solutions from scratch. I enjoy working across the stack — from low-level systems in C to web interfaces and beyond.
+
+- 🎓 Currently a student, always a learner
+- 🧠 Logical thinker & problem solver at heart
+- 🤝 Open to collaborations, internships & student opportunities
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ## 🚀 Projects
-- Currently working on new projects, stay tuned!
 
-## 🌱 Learning & Growing
-I’m always looking to learn, collaborate, and build meaningful solutions. If you share similar interests or have opportunities for students, feel free to connect!
+> More coming soon — currently building in public. Stay tuned!
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Java (OOP, Collections, DSA)
+- Backend development & REST APIs
