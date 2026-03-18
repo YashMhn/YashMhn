@@ -1,4 +1,4 @@
-# Hi there, I'm {} 👋
+# Hi there, I'm Yash 👋
 
 > *"First, solve the problem. Then, write the code."*
 
