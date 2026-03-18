@@ -36,7 +36,7 @@ I'm a passionate student developer who loves breaking down complex problems and 
 
 <div align="center">
 
-| 🧠 Project &nbsp;&nbsp;&nbsp; | 💡 Description | 🛠 Stack |
+| 🧠 Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 💡 Description | 🛠 Stack |
 |:---:|:---|:---:|
 | **[news-scraper](https://github.com/YashMhn/news-scraper)** | Scalable data engineering pipeline for automated news discovery & extraction featuring a 3-layer fallback, SQLite deduplication, and Airflow orchestration | `Python` `SQLite` `Airflow` `BeautifulSoup` |
 
