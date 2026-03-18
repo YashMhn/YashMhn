@@ -32,9 +32,8 @@ I'm a passionate student developer who loves breaking down complex problems and 
 
 ---
 ## 🚀 Projects
-<div align="center">
 
-<div align="center">
+<div align="justify">
 
 | 🧠 Project <img width="300" height="1"> | 💡 Description | 🛠 Stack |
 |:---:|:---|:---:|
