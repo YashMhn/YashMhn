@@ -33,8 +33,8 @@ I'm a passionate student developer who loves breaking down complex problems and 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashMhn&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMhn&layout=compact&theme=tokyonight)
 
 ---
 
