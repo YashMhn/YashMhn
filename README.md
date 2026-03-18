@@ -38,12 +38,16 @@ I'm a passionate student developer who loves breaking down complex problems and 
 |:---:|:---|:---:|
 | **[news-scraper](https://github.com/YOUR_USERNAME/news-scraper)** | Scalable data engineering pipeline for automated news discovery & extraction featuring a 3-layer fallback, SQLite deduplication, and Airflow orchestration | `Python` `SQLite` `Airflow` `BeautifulSoup` |
 </div>
+
 >
+
 > More coming soon, currently building in public. Stay tuned!
 ---
+
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashMhn&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashMhn&layout=compact&theme=tokyonight)
+
 ---
 ## 🌱 Currently Learning
 - Advanced Java (OOP, Collections, DSA)
