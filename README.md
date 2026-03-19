@@ -40,7 +40,7 @@ I'm a passionate student developer who loves breaking down complex problems and 
     <th width="25%">🛠 Stack</th>
   </tr>
   <tr>
-    <td align="center"><b><a href="https://github.com/YashMhn/news-sentiment-analysis">Newsense[In Progress]</a></b></td>
+    <td align="center"><b><a href="https://github.com/YashMhn/news-sentiment-analysis">Newsense</a></b></td>
     <td align="center">Sentiment intelligence across your scraped news — VADER vs TextBlob</td>
     <td align="center"><code>Python</code> <code>SQLite</code></td>
   </tr>
