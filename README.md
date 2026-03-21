@@ -45,7 +45,7 @@ I'm a passionate student developer who loves breaking down complex problems and 
     <td align="center"><code>Python</code> <code>SQLite</code></td>
   </tr>
   <tr>
-    <td align="center"><b><a href="https://github.com/YashMhn/news-sentiment-analysis">🔮 Data Nexus</a></b></td>
+    <td align="center"><b><a href="https://github.com/YashMhn/Data-Nexus">Data Nexus</a></b></td>
     <td align="center"> A premium fullstack data visualization dashboard</td>
     <td align="center"><img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
