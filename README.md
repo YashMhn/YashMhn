@@ -44,6 +44,15 @@ I'm a passionate student developer who loves breaking down complex problems and 
     <td align="center">Sentiment intelligence across your scraped news — VADER vs TextBlob</td>
     <td align="center"><code>Python</code> <code>SQLite</code></td>
   </tr>
+  <tr>
+    <td align="center"><b><a href="https://github.com/YashMhn/news-sentiment-analysis">🔮 Data Nexus</a></b></td>
+    <td align="center"> A premium fullstack data visualization dashboard</td>
+    <td align="center"><img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-0.100+-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Pandas-Vectorized-150458?logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/TypeScript-Strict-3178C6?logo=typescript&logoColor=white" alt="TypeScript" /></td>
+  </tr>
 </table>
 
 >
