@@ -43,7 +43,8 @@ I'm a passionate student developer who loves breaking down complex problems and 
   <tr>
     <td align="center"><b><a href="https://github.com/YashMhn/news-sentiment-analysis">Newsense</a></b></td>
     <td align="center">Sentiment intelligence across your scraped news — VADER vs TextBlob</td>
-    <td align="center"><code>Python</code> <code>SQLite</code></td>
+    <td align="center"><img src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/SQLite-3.x-003B57?logo=sqlite&logoColor=white" alt="SQLite"></td>
   </tr>
   <tr>
     <td align="center"><b><a href="https://github.com/YashMhn/Data-Nexus">Data Nexus</a></b></td>
